@@ -7,7 +7,7 @@ Projet réalisé dans le cadre du MS BigData 2020/2021 à Télécom Paris par :
   - Adrien SENET
  
  ![](http://andreiarion.github.io/images/gdelt-linguistic-geography.png)
- Locations mentioned in global news coverage monitored by GDELT 2015-2018, colored by the primary language of coverage mentioning each location ([Seeing The World Through The Eyes Of Others: Mass Machine Translation, KALEV LEETARU](https://www.forbes.com/sites/kalevleetaru/2018/11/24/seeing-the-world-through-the-eyes-of-others-mass-machine-translation/?sh=280c83702c8a))
+ *Locations mentioned in global news coverage monitored by GDELT 2015-2018, colored by the primary language of coverage mentioning each location ([Seeing The World Through The Eyes Of Others: Mass Machine Translation, KALEV LEETARU](https://www.forbes.com/sites/kalevleetaru/2018/11/24/seeing-the-world-through-the-eyes-of-others-mass-machine-translation/?sh=280c83702c8a))*
  
  
 ### Introduction:
@@ -27,8 +27,9 @@ Projet réalisé dans le cadre du MS BigData 2020/2021 à Télécom Paris par :
     
     
 ### Architecture
+![](https://github.com/LIIXII/ProjetNoSQL/blob/master/asset/NoSQL.jpg)
 
 
 ### Outils et logiciels utilisés
-Le processus ETL des fichiers GDELT a été réalisé dans un notebook Zeppelin, en utilisant Spark (Scala) connecté à AWS.
+Le processus ETL des fichiers GDELT a été réalisé dans un notebook Zeppelin, en utilisant Spark (Scala) connecté à AWS.  
 Le système de gestion de base de donnée utilisé est Mongodb.
