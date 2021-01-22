@@ -29,5 +29,5 @@ Projet réalisé dans le cadre du MS BigData 2020/2021 à Télécom Paris par :
 ### Architecture
 Le processus ETL des fichiers GDELT a été réalisé dans un notebook Zeppelin, en utilisant Spark (Scala) connecté à AWS.  
 Le système de gestion de base de donnée utilisé est Mongodb.  
-![](https://github.com/Projet-AWS-GDELT/Projet-AWS-GDELT/blob/main/Images/NoSQL.png?raw=true)
+![](https://github.com/Projet-AWS-GDELT/Projet-AWS-GDELT/blob/main/Images/Nosql.png?raw=true)
 
